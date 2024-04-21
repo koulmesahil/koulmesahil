@@ -10,3 +10,4 @@ While I value formal education, I also leverage online resources to augment my l
 I actively seek opportunities to contribute my skills and knowledge to meaningful causes, participating in data-driven research initiatives and collaborating with local organizations to make a positive impact.
 
 Feel free to connect and explore data-driven possibilities together!
+https://koulmesahil.github.io/
