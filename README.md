@@ -1,13 +1,9 @@
 ### Hi 👋
-I'm a graduate student deeply passionate about the intersection of data and storytelling. With a strong belief in their power to drive meaningful change, I spend my days immersed in programming and data analysis, focusing on areas like data visualization and machine learning.
+I’m a data scientist passionate about the intersection of data, storytelling, and innovation. With expertise in machine learning, data visualization, and statistical analysis, I work on end-to-end data science projects—transforming raw data into actionable insights.
 
-My academic pursuits often involve end-to-end data science projects, from gathering data to uncovering insights using advanced techniques. I'm particularly interested in exploring the application of generative AI algorithms for creating novel solutions.
+I have a strong interest in generative AI and its potential to create novel solutions. Beyond my academic pursuits, I enjoy experimenting with generative art, data-driven storytelling, and creative applications of AI.
 
-During my downtime, I enjoy working on personal projects, whether it's experimenting with generative art or diving into data-driven storytelling. I find joy in pushing the boundaries of creativity and innovation.
+I believe in continuous learning, combining formal education with hands-on projects and online resources. I'm always looking for opportunities to apply data science to meaningful causes and collaborate on impactful initiatives.
 
-While I value formal education, I also leverage online resources to augment my learning, focusing on a balanced approach that integrates both.
-
-I actively seek opportunities to contribute my skills and knowledge to meaningful causes, participating in data-driven research initiatives and collaborating with local organizations to make a positive impact.
-
-Feel free to connect and explore data-driven possibilities together!
+Let’s connect and explore data-driven possibilities together!
 https://koulmesahil.github.io/
